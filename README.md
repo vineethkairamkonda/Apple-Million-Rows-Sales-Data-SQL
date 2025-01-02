@@ -1,7 +1,7 @@
 
 # ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 ![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+
 
 Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
 
@@ -32,7 +32,7 @@ Here’s the shortened and improved version of the "What’s Included" and "Why 
 - **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
 - **Limited Offer**: Special price available for the **first 100 students**!
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+
 
 ## Database Schema
 
